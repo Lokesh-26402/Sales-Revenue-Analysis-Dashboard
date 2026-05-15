@@ -43,6 +43,7 @@ Visualization Techniques
 
 **Output**
 
+<img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/74f84aef-9d42-4e77-8025-baf561fa2f16" />
 
 
 
