@@ -30,8 +30,8 @@ Tracking profit and revenue trends
 Understanding customer purchasing behavior
 Supporting data-driven business decisions
 
-**Learning Outcomes
-**
+**Learning Outcomes**
+
 Through this project, users can learn:
 
 Power BI Dashboard Development
